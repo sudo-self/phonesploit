@@ -1,5 +1,6 @@
 # phonesploit-pro
 ## An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
+### Grab Python from here https://www.python.org
 ### Open Terminal
 ### git clone https://github.com/sudo-self/phonesploit-pro.git && cd phonesploit-pro
 ### sudo python3 phonesploitpro.py

@@ -10,3 +10,12 @@ cd phonesploit
 python3 phonesploit.py
 ```
 
+### executable
+
+```
+pyinstaller --onefile --icon="icon.icns" phonesploitpro.py
+```
+### create .dmg
+```
+create-dmg phonesploit.dmg icon.icns phonesploit.dmg
+```

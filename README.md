@@ -13,7 +13,7 @@ python3 phonesploit.py
 ### executable
 
 ```
-pyinstaller --onefile --icon="icon.icns" phonesploitpro.py
+pyinstaller --onefile --icon="icon.icns" phonesploit.py
 ```
 ### create .dmg
 

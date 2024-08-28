@@ -9,6 +9,14 @@ git clone https://github.com/sudo-self/phonesploit.git
 cd phonesploit
 python3 phonesploit.py
 ```
+
+### run the script & build executable & create dmg
+
+```
+sudo chmod +x setpup.sh
+./setup.sh
+```
+
 ### executable
 
 ```
